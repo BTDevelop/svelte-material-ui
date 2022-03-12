@@ -34,7 +34,7 @@
     "@smui/button": "1.0.0",
     "@smui/card": "1.0.0",
     "@smui/checkbox": "1.0.0",
-    "@smui/chips": "1.0.0",
+    "@smui/chips": "1.1.0",
     "@smui/data-table": "1.0.0",
     "@smui/dialog": "1.0.0",
     "@smui/drawer": "1.0.0",
