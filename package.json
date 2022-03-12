@@ -31,7 +31,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@smui/button": "1.0.0",
+    "@smui/button": "1.1.0",
     "@smui/card": "1.0.0",
     "@smui/checkbox": "1.0.0",
     "@smui/chips": "1.0.0",
