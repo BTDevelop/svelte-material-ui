@@ -30,8 +30,8 @@
   "dependencies": {
     "@material/card": "^3.2.0",
     "@smui/button": "^1.0.0",
-    "@smui/common": "^1.0.0",
-    "@smui/icon-button": "^1.0.0",
+    "@smui/common": "^6.0.0",
+    "@smui/icon-button": "^6.0.0",
     "@smui/ripple": "^1.0.0"
   },
   "devDependencies": {
