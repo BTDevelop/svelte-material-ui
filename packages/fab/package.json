@@ -30,7 +30,7 @@
   "dependencies": {
     "@material/fab": "^3.2.0",
     "@material/feature-targeting": "^3.1.0",
-    "@smui/common": "^1.0.0",
+    "@smui/common": "^6.0.0",
     "@smui/ripple": "^1.0.0"
   },
   "devDependencies": {
