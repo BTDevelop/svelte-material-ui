@@ -31,7 +31,7 @@
     "@material/feature-targeting": "^3.1.0",
     "@material/form-field": "^3.2.0",
     "@material/rtl": "^3.2.0",
-    "@smui/common": "^1.0.0"
+    "@smui/common": "^6.0.0"
   },
   "devDependencies": {
     "glob-cmd": "0.0.7",
